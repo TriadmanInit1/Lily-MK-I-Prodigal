@@ -1,0 +1,12 @@
+usage.txt
+.DS_Store
+ai_config.py
+config.json
+*.txt
+*.wav
+*.mp3
+*.pyc
+*.aiff
+*.mp4
+/LilyEnv
+/Experimental
